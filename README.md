@@ -23,6 +23,7 @@ This is a project from Udacity's Machine Learning Engineer Nanodegree. The data 
    4. feature selection step can be guided by statistical tests
    
  ## Source
- __Udacity Machine Learning Nanodegree__
- [dataset corpus source](https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html)
+ 
+ *__Udacity Machine Learning Nanodegree__
+ * [dataset corpus source](https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html)
 
