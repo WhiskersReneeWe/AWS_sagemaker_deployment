@@ -24,6 +24,6 @@ This is a project from Udacity's Machine Learning Engineer Nanodegree. The data 
    
  ## Source
  
- *__Udacity Machine Learning Nanodegree__
+ * __Udacity Machine Learning Nanodegree__
  * [dataset corpus source](https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html)
 
